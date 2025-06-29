@@ -8,11 +8,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/junrickmar/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/junrickmar/programmatic-vulnerability-remediations/tree/master)**
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/junrickmar/Threat-Hunting-Scenario-TOR-Browser-Usage/tree/master)**
-
-<hr/>
+## 🚨 Security Operations and Threat Hunting Projects
+- **Threat Hunting**
+  - **[Scenario 1: Unauthorized TOR Browser](https://github.com/junrickmar/Threat-Hunting-Scenario-TOR-Browser-Usage)**
+- **NIST 800-61 Incident Response Against Simulated Attacks**
+  - **[Security Incident 1: T1059 - Command and Scripting Interpreter Attack]()**
+- **Custom KQL/SPL Cloud Threat Detection Rule Library**
+  - [KQL Detection Rules](https://github.com/junrickmar/KQL-Detection-Rules)
 
 ## 🤳 Connect With Me
 <!--
