@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/junrickmar/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/junrickmar/vulnerability-management-programv2/tree/master)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/junrickmar/programmatic-vulnerability-remediations/tree/master)**
 
 ## 🚨 Security Operations and Threat Hunting Projects
