@@ -16,18 +16,21 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **Custom KQL/SPL Cloud Threat Detection Rule Library**
   - [KQL Detection Rules](https://github.com/junrickmar/KQL-Detection-Rules)
 
-## 🤳 Connect With Me
 <!--
+## 🤳 Connect With Me
+
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
+
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-<!--
+
+
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
--->
+
 [linkedin]: https://linkedin.com/in/junrick-mar-cabalan-0a3a99238
+-->
