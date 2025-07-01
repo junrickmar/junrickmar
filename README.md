@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **Threat Hunting**
   - **[Scenario 1: Unauthorized TOR Browser](https://github.com/junrickmar/Threat-Hunting-Scenario-TOR-Browser-Usage)**
 - **NIST 800-61 Incident Response Against Simulated Attacks**
-  - **[Security Incident 1: T1059 - Command and Scripting Interpreter Attack]()**
+  - **[Security Incident 1: T1059 - Command and Scripting Interpreter Attack](https://github.com/junrickmar/Command-and-Scripting-Interpreter-T1059--Incident-Response-Atomic-Red)**
 - **Custom KQL/SPL Cloud Threat Detection Rule Library**
   - [KQL Detection Rules](https://github.com/junrickmar/KQL-Detection-Rules)
 
